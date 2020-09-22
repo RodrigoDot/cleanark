@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RodrigoDot/cleanark/issues"
   },
-  "homepage": "https://github.com/RodrigoDot/cleanark#readme"
+  "homepage": "https://github.com/RodrigoDot/cleanark#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^2.7.0"
+  }
 }
